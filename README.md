@@ -1,5 +1,7 @@
 # Launcher-V1
-I've seen a few projects been using this launcher if your using this please credit me (zinx)
+I've seen a few projects been using this launcher if your using this please credit me (zinx)<br>
+
+Credit to sffw_official for giving me the src
 <br><br>
 This Launcher Is Made For Eon!
 
